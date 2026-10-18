@@ -1,0 +1,66 @@
+
+{
+  "name": "FlClash 二次元萌系图标集",
+  "icons": [
+    {
+      "name": "自动选择",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/auto.png"
+    },
+    {
+      "name": "手动选择",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/manual.png"
+    },
+    {
+      "name": "故障转移",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/fallback.png"
+    },
+    {
+      "name": "全局模式",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/global.png"
+    },
+    {
+      "name": "直连",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/direct.png"
+    },
+    {
+      "name": "中国香港",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/hong-kong.png"
+    },
+    {
+      "name": "中国台湾",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/taiwan.png"
+    },
+    {
+      "name": "日本",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/japan.png"
+    },
+    {
+      "name": "美国",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/usa.png"
+    },
+    {
+      "name": "新加坡",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/singapore.png"
+    },
+    {
+      "name": "英国",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/uk.png"
+    },
+    {
+      "name": "加拿大",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/canada.png"
+    },
+    {
+      "name": "澳大利亚",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/australia.png"
+    },
+    {
+      "name": "德国",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/germany.png"
+    },
+    {
+      "name": "法国",
+      "url": "https://raw.githubusercontent.com/zaohuhubb-png/flclash-anime-icons/main/france.png"
+    }
+  ]
+}
